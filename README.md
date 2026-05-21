@@ -1,6 +1,6 @@
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=MERN+Stack+Learner;Java+Full+Stack+Learner;Building+Real+World+Projects"/>
-</p><h2>Hi 👋, I'm Harshal Patil</h2>
+</p><h3>Hi 👋, I'm Harshal Patil</h3>
 
 💻 MERN Stack & Java Learner  
 🚀 Building Real-World Projects  

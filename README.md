@@ -3,22 +3,37 @@
 💻 MERN Stack & Java Learner  
 🚀 Building Real-World Projects  
 🎓 BCA Student  
-🌱 Learning Java Full Stack Development at Kiran Academy Pune
+🌱 Learning Java Full Stack Development at Kiran Academy Pune  
+
+---
+
+## 🚀 About Me
+
+- 🔭 Working on MERN Stack Projects
+- 🌱 Currently learning Core Java & Advanced Java
+- 💡 Interested in Frontend & Full-Stack Development
+- ⚡ Love building real-world applications
 
 ---
 
 ## 🛠 Tech Stack
 
-- Frontend: React.js, HTML, CSS, JavaScript
-- Backend: Node.js, Express.js
-- Database: MongoDB, MySQL
-- Tools: Git, GitHub, VS Code, Postman, Figma
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,git,github,vscode,postman" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=harshal-patil-dev)
 
 ---
 
 ## 🚀 Featured Project
 
 ### Travely - Travel Booking System
+
 - MERN Stack Project
 - Razorpay Integration
 - JWT Authentication

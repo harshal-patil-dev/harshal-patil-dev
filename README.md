@@ -1,5 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=MERN+Stack+Learner;Java+Full+Stack+Learner;Building+Real+World+Projects)](https://git.io/typing-svg)
-# Hi 👋, I'm Harshal Patil
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Learner;Java+Full+Stack+Learner;Building+Real+World+Projects" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Harshal Patil</h1>
 
 💻 MERN Stack & Java Learner  
 🚀 Building Real-World Projects  
